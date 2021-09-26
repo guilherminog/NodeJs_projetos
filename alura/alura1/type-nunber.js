@@ -23,6 +23,11 @@ console.log(novaOperacao)
 const alura = "Alura"
 console.log(alura * primeiroNumero)
 
+// // NaN -> Not A Number com 0 (nao e um numero)
+var a = 0
+var b = 0
+console.log(a/b)
+
 // tipo infinity
  var a = 10
  var b = 0
