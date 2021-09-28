@@ -15,3 +15,4 @@ const texto2 =  'alura';
 const inputMinusculo = texto1.toLowerCase();
 
 console.log(inputMinusculo === texto2)
+
